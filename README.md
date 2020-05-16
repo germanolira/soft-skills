@@ -6,7 +6,8 @@
 - [ ] ⚠ = Consegue entender o assunto, mas precisa aprofundar mais
 - [ ] ❌ = Precisa estudar sobre
 
-@germanolira
+> Programar te dá super poderes!
+
 - Banco de Dados.
 - REST.
 - Server-side.
