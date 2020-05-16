@@ -7,34 +7,34 @@
 ❌ = Precisa estudar sobre
 
 
-Banco de Dados
-REST
-Server-side
-Autenticação
-Segurança
-Deploy
-UI / UX
-HTML
-CSS
-JS
-React
-Algoritmos
-Estrutura de dados
-Paradigmas de programação
-Linguagem C
-Arquitetura de computadores
-Qualidade de código
-Escrevendo testes
-Refatorando código
-Workflow de desenvolvimento
-Design de código
-Git avançado
-Cascata vs Agil
-Manifesto
-Kanban
-Scrum
-Times ágeis
-Métricas ágeis
-Rotina de trabalho
-Trabalho em equipe
-Comunicação
+Banco de Dados.
+REST.
+Server-side.
+Autenticação.
+Segurança.
+Deploy.
+UI / UX.
+HTML.
+CSS.
+JS.
+React.
+Algoritmos.
+Estrutura de dados.
+Paradigmas de programação.
+Linguagem C.
+Arquitetura de computadores.
+Qualidade de código.
+Escrevendo testes.
+Refatorando código.
+Workflow de desenvolvimento.
+Design de código.
+Git avançado.
+Cascata vs Agil.
+Manifesto.
+Kanban.
+Scrum.
+Times ágeis.
+Métricas ágeis.
+Rotina de trabalho.
+Trabalho em equipe.
+Comunicação.
