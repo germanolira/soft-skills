@@ -8,6 +8,8 @@
 
 > Programar te dá super poderes!
 
+- Cross-plataform
+- Flutter
 - Banco de Dados.
 - REST.
 - Server-side.
