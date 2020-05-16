@@ -1,4 +1,4 @@
-# soft-skills
+# Soft Skills
 # Tudo que um programador precisa para ser um ótimo programador - Avaliação propria.
 
 
