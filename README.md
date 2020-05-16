@@ -6,7 +6,7 @@
 - [ ] ⚠ = Consegue entender o assunto, mas precisa aprofundar mais
 - [ ] ❌ = Precisa estudar sobre
 
-
+@germanolira
 - Banco de Dados.
 - REST.
 - Server-side.
