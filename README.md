@@ -2,9 +2,9 @@
 # Tudo que um programador precisa para ser um ótimo programador - Avaliação propria.
 
 
-- ✅ = Área dominada
-- ⚠ = Consegue entender o assunto, mas precisa aprofundar mais
-- ❌ = Precisa estudar sobre
+- [X] ✅ = Área dominada
+- [ ] ⚠ = Consegue entender o assunto, mas precisa aprofundar mais
+- [ ] ❌ = Precisa estudar sobre
 
 
 - Banco de Dados.
