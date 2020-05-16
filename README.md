@@ -1,14 +1,16 @@
 # soft-skills
-Tudo que um programador precisa para ser um ótimo programador - Avaliaçao propria
+Tudo que um programador precisa para ser um ótimo programador - Avaliação propria.
 
-✅ = Area dominada
-⚠ = Consegue entender o assunto mas precisa aprofundar mais
+
+✅ = Área dominada
+⚠ = Consegue entender o assunto, mas precisa aprofundar mais
 ❌ = Precisa estudar sobre
+
 
 Banco de Dados
 REST
 Server-side
-Autenticaçao
+Autenticação
 Segurança
 Deploy
 UI / UX
@@ -18,21 +20,21 @@ JS
 React
 Algoritmos
 Estrutura de dados
-Paradigmas de programaçao
+Paradigmas de programação
 Linguagem C
 Arquitetura de computadores
-Qualidade de codigo
+Qualidade de código
 Escrevendo testes
-Refatorando codigo
+Refatorando código
 Workflow de desenvolvimento
-Design de codigo
+Design de código
 Git avançado
 Cascata vs Agil
 Manifesto
 Kanban
 Scrum
-Times ageis
-Metricas ageis
+Times ágeis
+Métricas ágeis
 Rotina de trabalho
 Trabalho em equipe
-Comunicaçao
+Comunicação
