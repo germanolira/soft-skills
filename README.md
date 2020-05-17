@@ -41,3 +41,18 @@
 - Rotina de trabalho.
 - Trabalho em equipe.
 - Comunicação.
+
+# Front-end
+
+·JavaScript, AngularJS, Angular 8, Typescript; 
+·Framework Ionic; 
+·Consumo de API RESTs; 
+·HTML5, CSS, SASS, Bootstrap/Material Design; 
+·GIT. 
+
+# Recomendado para Front-end
+
+·Banco de Dados (SQL, NoSQL); 
+·Ambiente AWS; 
+·GraphQL; 
+·Automação de Testes, ferramentas de CD/CI. 
