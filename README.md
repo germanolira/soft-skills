@@ -16,9 +16,9 @@
 - Autenticação.
 - Segurança.
 - Deploy.
-- UI / UX.
-- HTML.
-- CSS.
+- UI / UX. ✅
+- HTML. ✅
+- CSS. ✅
 - JS.
 - React.
 - Algoritmos.
