@@ -19,28 +19,28 @@
 - UI / UX. ✅
 - HTML. ✅
 - CSS. ✅
-- JS.
+- JS. ⚠
 - React.
 - Algoritmos.
 - Estrutura de dados.
 - Paradigmas de programação.
 - Linguagem C.
 - Arquitetura de computadores.
-- Qualidade de código.
+- Qualidade de código. ✅
 - Escrevendo testes.
 - Refatorando código.
 - Workflow de desenvolvimento.
-- Design de código.
+- Design de código. ✅
 - Git avançado.
 - Cascata vs Agil.
 - Manifesto.
 - Kanban.
-- Scrum.
+- Scrum. ✅
 - Times ágeis.
 - Métricas ágeis.
 - Rotina de trabalho.
-- Trabalho em equipe.
-- Comunicação.
+- Trabalho em equipe. ⚠
+- Comunicação. ✅
 
 # Front-end
 
