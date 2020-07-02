@@ -46,7 +46,7 @@
 
 - JavaScript, Angular, React, Vue, Electron, Typescript; 
 - Consumo de API RESTs; 
-- HTML5, CSS, SASS, Bootstrap/; 
+- HTML5, CSS, SASS, Bootstrap; 
 - GIT. 
 
 # Recomendado para Front-end
