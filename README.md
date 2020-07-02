@@ -44,10 +44,9 @@
 
 # Front-end
 
-- JavaScript, AngularJS, Angular 8, Typescript; 
-- Framework Ionic; 
+- JavaScript, Angular, React, Vue, Electron, Typescript; 
 - Consumo de API RESTs; 
-- HTML5, CSS, SASS, Bootstrap/Material Design; 
+- HTML5, CSS, SASS, Bootstrap/; 
 - GIT. 
 
 # Recomendado para Front-end
