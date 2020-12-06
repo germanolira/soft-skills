@@ -8,19 +8,19 @@
 
 > Programar te dá super poderes!
 
-- Cross-plataform
+- Cross-plataform.
 - Banco de Dados.
 - REST.
-- Server-side.
+- Server-side. ✅
 - Autenticação.
 - Segurança.
-- Deploy.
+- Deploy. ✅
 - UI / UX. ✅
 - HTML. ✅
 - CSS. ✅
 - JS. ⚠
-- React.
-- Algoritmos.
+- React. ⚠
+- Algoritmos. ✅
 - Estrutura de dados.
 - Paradigmas de programação.
 - Linguagem C.
@@ -36,16 +36,16 @@
 - Kanban.
 - Scrum. ✅
 - Times ágeis.
-- Métricas ágeis.
+- Métricas ágeis. ✅
 - Rotina de trabalho.
 - Trabalho em equipe. ⚠
 - Comunicação. ✅
 
 # Front-end
 
-- JavaScript, React, Typescript; 
-- Consumo de API RESTs; 
-- HTML5, CSS, SASS, Tailwindcss; 
+- JavaScript, React, Typescript; ⚠
+- Consumo de API RESTs;
+- HTML5, CSS, SASS, Tailwindcss; ✅
 - GIT.
 
 # Recomendado para Front-end
