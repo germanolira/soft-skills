@@ -1,5 +1,5 @@
-# Soft Skills
-# Tudo que um programador precisa para ser um ótimo programador - Avaliação propria.
+# Skills
+# Tudo que um programador precisa para ser um ótimo programador - Avaliação própria.
 
 
 - [X] ✅ = Área dominada
