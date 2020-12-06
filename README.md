@@ -9,7 +9,6 @@
 > Programar te dá super poderes!
 
 - Cross-plataform
-- Flutter
 - Banco de Dados.
 - REST.
 - Server-side.
@@ -44,14 +43,14 @@
 
 # Front-end
 
-- JavaScript, Angular, React, Vue, Electron, Typescript; 
+- JavaScript, React, Typescript; 
 - Consumo de API RESTs; 
-- HTML5, CSS, SASS, Bootstrap; 
-- GIT. 
+- HTML5, CSS, SASS, Tailwindcss; 
+- GIT.
 
 # Recomendado para Front-end
 
-- Banco de Dados (SQL, NoSQL); 
+- Banco de Dados (SQL, NoSQL, MongoDB); 
 - Ambiente AWS; 
 - GraphQL; 
 - Automação de Testes, ferramentas de CD/CI.
